@@ -1,0 +1,98 @@
+#jumbo1
+{
+  background-color: #ffd9b3;
+  background-repeat: no-repeat;
+  height:100%;
+  width:100%;
+}
+#subjumbo1
+{
+  background-color:white;
+  height:100%;
+  width:100%;
+}
+#subjumbo2
+{
+  background-color: white;
+  height:100%;
+  width:100%;
+}
+#header1
+{
+  font-size: 110px;
+  font-family: Lucida Console;
+  font-weight: bold;
+  color: white;
+}
+#subjumboh1
+{
+  font-weight: bold;
+  font-family: lucida console;
+  color: #ffd9b3;
+
+}
+#productsubhead1
+{
+  text-align: left;
+  font-weight: bold;
+  color:#ffd9b3;
+  font-size: 45px;
+}
+#productsubp1
+{
+
+  font-size: 20px;
+}
+#productssubjumboh1
+{
+  font-weight: bold;
+  font-size: 60px;
+  font-family: lucida console;
+  color: #ffd9b3;
+
+}
+#subhead1
+{
+  text-align: left;
+  font-weight: bold;
+  color:#ffd9b3;
+}
+#drugheadname
+{
+  background-color: white;
+  font-size: 50px;
+  color: #ffd9b3;
+
+}
+#drugheadsubname
+{
+  background-color: white;
+  font-size: 30px;
+  color: #ffd9b3;
+}
+#p1
+{
+  text-align: center;
+  font-family: Lucida Console;
+  color: white;
+}
+hr
+{
+    background-color: #ffd9b3 !important;
+    color: #ffd9b3 !important;
+    height: 1px !important;
+    width: 100% !important;
+}
+#productbtn
+{
+  float: center;
+}
+
+
+
+
+.navbar.navbar-default .navbar-brand:hover,
+.navbar.navbar-default .navbar-brand:focus
+{
+  color: #ffd9b3;
+}
